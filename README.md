@@ -21,14 +21,3 @@ How I Built It
 This project was built as part of my self-study journey in cloud engineering. I referenced AWS documentation, experimented with tutorials on YouTube, and did a lot of trial and error to get everything working smoothly.
 
 Everything was built from scratch locally and deployed using Terraform. It helped me get hands-on practice with automation, permissions, and working across multiple AWS services.
-
-serverless-csv-pipeline/
-├── lambda/
-│ └── lambda_function.py
-├── glue/
-│ └── etl_script.py
-├── terraform/
-│ ├── main.tf
-│ ├── variables.tf
-├── test_data/
-│ └── sample.csv
